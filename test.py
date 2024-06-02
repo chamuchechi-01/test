@@ -11,3 +11,8 @@ print(a * 5,b)
 a = 5,"f","privet",90.2
 b = 62
 print(b,"privet")
+
+# 4
+num = str(input("give me a num"))
+num = list(str(num))
+print(num)
