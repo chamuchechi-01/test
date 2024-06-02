@@ -43,10 +43,42 @@ c = int(input('дайте мне третью целое число: '))
 print(a+b+c)
 
 
-# 9
+# 10
 a = input('write a pin: ')
 b = input('write again: ')
 if a == b:
     print("your pin was accepted")
 else:
     print('you write incorrect pin')
+
+# 12
+print('hello world')
+
+# 13
+# переменное это как бы ключ которое в себе содержит значении типа str,foult,int
+
+# 15
+a = 10
+b = 5
+if a / 2 ==0:
+    print('четное')
+else:
+    print('не четное')
+if b / 2:
+    print('четное')
+else:
+    print('не четное')
+
+# 16
+for i in range(1,100):
+    print(i)
+
+# 16
+for i in range(1,100):	
+    print(i)	
+
+# 17
+# делать sum,sort,append,del,count еще много всего
+
+# 19
+# процесс написания кода для перехвата и обработки ошибок или исключений, которые могут возникать при выполнении программы
