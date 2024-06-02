@@ -30,3 +30,9 @@ a = int(input("give a num"))
 b = int(input("give a num"))
 c = int(input("give a num"))
 print( a + b + c)
+
+# 7
+a = 1
+b = "1"
+c = 1.1
+print(int(a) + int(b) + int(c))
