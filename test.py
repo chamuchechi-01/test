@@ -16,3 +16,9 @@ print(b,"privet")
 num = str(input("give me a num"))
 num = list(str(num))
 print(num)
+
+# 5
+a = input("give me a name")
+b = input("give me a surename")
+z = input("give me a age")
+print(" привет " + a,b + " тебе уже " + z + " лет ")
