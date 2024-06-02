@@ -25,7 +25,6 @@ print(" привет " + a,b + " тебе уже " + z + " лет ")
 
 
 # 6
-import math
 a = int(input("give a num"))
 b = int(input("give a num"))
 c = int(input("give a num"))
