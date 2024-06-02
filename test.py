@@ -22,3 +22,5 @@ a = input("give me a name")
 b = input("give me a surename")
 z = input("give me a age")
 print(" привет " + a,b + " тебе уже " + z + " лет ")
+
+
