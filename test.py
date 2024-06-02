@@ -35,3 +35,18 @@ a = 1
 b = "1"
 c = 1.1
 print(int(a) + int(b) + int(c))
+
+# 8
+a = int(input('дайте мне первое целое число: '))
+b = int(input('дайте мне второе целое число: '))
+c = int(input('дайте мне третью целое число: '))
+print(a+b+c)
+
+
+# 9
+a = input('write a pin: ')
+b = input('write again: ')
+if a == b:
+    print("your pin was accepted")
+else:
+    print('you write incorrect pin')
